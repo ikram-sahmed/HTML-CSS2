@@ -1,0 +1,32 @@
+body {
+    margin:0%
+}
+
+header {
+    position: fixed;
+    top: 0px; 
+    width: 100%;
+    background-color:lightgray;
+}
+
+form {
+    position: relative;
+    top: 82px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.form-div{
+    display: inline block;
+}
+
+#space-filler {
+    height: 110vh;
+    border: 1px solid black;
+}
+
+header {
+    background-color: pink;
+}
